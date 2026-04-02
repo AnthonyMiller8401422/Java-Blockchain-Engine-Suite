@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * 区块链核心基础类：区块结构 + SHA256哈希计算 + 链校验
- */
+ */ 
 public class BlockchainCore {
     public static class Block {
         public String hash;
